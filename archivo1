@@ -1,4 +1,8 @@
 Hola soy el archivo1
 empiezo a corregir en branch rodrigo
 identifico el bug
+<<<<<<< HEAD
 bug arreglado por fernando
+=======
+conflicto
+>>>>>>> rodrigo
